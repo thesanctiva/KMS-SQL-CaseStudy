@@ -55,7 +55,7 @@ This case really helped me practice writing **complex SQL queries**, using **JOI
 ## 🔗 Live Project Files
 
 Need the full zipped package (including raw data)?  
-📦 [Click here to view/download from Google Drive or OneDrive](https://1drv.ms/u/c/ed71485e97342fc2/ERde2jqjo6xIk3kddy4slGQB_bFpES8NoT9L2yhQQ8a6TQ?e=WWOij2) *
+📦 [Click here to view/download from Google Drive or OneDrive](https://1drv.ms/u/c/ed71485e97342fc2/ERde2jqjo6xIk3kddy4slGQB_bFpES8NoT9L2yhQQ8a6TQ?e=WWOij2) 
 
 ---
 
@@ -64,7 +64,7 @@ Need the full zipped package (including raw data)?
 Hi, I'm **[Your Name]** — an aspiring data analyst passionate about using SQL, Excel, and Power BI to turn messy data into clean insights.
 
 📫 Feel free to connect with me:  
-- [LinkedIn](www.linkedin.com/in/osogieseconfidenceose) *
+- [LinkedIn](www.linkedin.com/in/osogieseconfidenceose) 
 - [Email](oseremhenosogiese@gmail.com)
 
 ---
