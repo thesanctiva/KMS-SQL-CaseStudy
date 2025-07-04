@@ -64,7 +64,7 @@ Need the full zipped package (including raw data)?
 Hi, I'm **[Your Name]** — an aspiring data analyst passionate about using SQL, Excel, and Power BI to turn messy data into clean insights.
 
 📫 Feel free to connect with me:  
-- [LinkedIn](#) *(www.linkedin.com/in/osogieseconfidenceose)*  
+- [LinkedIn](www.linkedin.com/in/osogieseconfidenceose) *
 - [Email](oseremhenosogiese@gmail.com)
 
 ---
